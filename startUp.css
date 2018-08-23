@@ -21,7 +21,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("https://unsplash.com/photos/Bd7gNnWJBkU");
+  background-image: url('https://unsplash.com/photos/Bd7gNnWJBk');
   background-size: cover;
   height: 100%;
 }
